@@ -1,0 +1,14 @@
+#image{
+    max-width: 90%;
+    height: 40%;
+}
+
+#img-div{
+align-items: center;
+}
+
+#main{
+    align-items: center;
+    justify-content: center;
+
+}
