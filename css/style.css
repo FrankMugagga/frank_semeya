@@ -1,14 +1,23 @@
 #image{
-    max-width: 90%;
-    height: 40%;
-}
-
-#img-div{
-align-items: center;
+    max-width: 600%;
+    height: 60%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
 }
 
 #main{
-    align-items: center;
-    justify-content: center;
+    background-color: darkgray;
+}
+#title, p{
+    text-align: center;
+}
+#img-caption{
+    font-size: 12px;
+    text-align: center;
+}
 
+#img-div{
+    background-color: aliceblue;
 }
